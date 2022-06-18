@@ -1,4 +1,4 @@
-|ns|cpu usage|rqst|limit|mem-usage|rqst|limit|
+|ns|cpu usage(m)|rqst|limit|mem-usage(M)|rqst|limit|
 |---|---|--|--| ---|---|--|
 |new sno | | | | | | |
 |nfs | 1| | |21 | | |
@@ -18,6 +18,6 @@
 |aimanager| | | | | | |
 |ics | | | | | | |
 |--remove cs locker -- |-- | | | | | |
-|aimanager| | | | | | |
-|ics | | | | | | |
+|aimanager| 1439|14735 |95925 | 19086|39181 | 114520|
+|ics | 245| 4510|22435 | 3452|8511 |17655 |
 |all | | | | | | |

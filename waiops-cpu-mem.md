@@ -5,6 +5,11 @@
 |ceph | 385| | |6615 | | |29|
 |openshift-gitops | 94|1875 |7500 | 963|2432 | 5376|8|
 
+## original ai, ics
+|ns|cpu usage(m)|rqst|limit|mem-usage(M)|rqst|limit|pods|
+|---|---|--|--| ---|---|--| --|
+|ics |119 |4610 |22935 |3625 |8561 | 18167|40|
+|aimanager| | | | | | |146|
 
 ## sno 
 note:

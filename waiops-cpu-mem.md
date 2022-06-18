@@ -1,9 +1,9 @@
 ## common
-|ns|cpu usage(m)|rqst|limit|mem-usage(M)|rqst|limit|
-|---|---|--|--| ---|---|--|
-|nfs | 1| | |21 | | |
-|ceph | | | | | | |
-|openshift-gitops | 94|1875 |7500 | 963|2432 | 5376|
+|ns|cpu usage(m)|rqst|limit|mem-usage(M)|rqst|limit|pods|
+|---|---|--|--| ---|---|--| --|
+|nfs | 1| | |21 | | |1|
+|ceph | 385| | |6615 | | |29|
+|openshift-gitops | 94|1875 |7500 | 963|2432 | 5376|8|
 
 
 ## sno 
